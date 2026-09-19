@@ -27,7 +27,8 @@
             android:layout_weight="1"
             android:gravity="center"
             android:text="This"
-            android:background="#F44336" />
+            android:textColor="@android:color/white"
+            android:background="#FF0000" />
 
         <TextView
             android:layout_width="0dp"
@@ -35,7 +36,8 @@
             android:layout_weight="1"
             android:gravity="center"
             android:text="is"
-            android:background="#4CAF50" />
+            android:textColor="@android:color/white"
+            android:background="#0000FF" />
 
         <TextView
             android:layout_width="0dp"
@@ -43,7 +45,8 @@
             android:layout_weight="1"
             android:gravity="center"
             android:text="my"
-            android:background="#2196F3" />
+            android:textColor="@android:color/white"
+            android:background="#673AB7" />
 
         <TextView
             android:layout_width="0dp"
@@ -51,7 +54,8 @@
             android:layout_weight="1"
             android:gravity="center"
             android:text="first"
-            android:background="#FFEB3B" />
+            android:textColor="@android:color/black"
+            android:background="#FFFF00" />
 
     </LinearLayout>
 
